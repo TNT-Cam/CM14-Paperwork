@@ -1,4 +1,4 @@
-Public Collection of CMU14 paperwork.
+Public Collection of CM14 paperwork.
 
 Much thanks to Crazy1113345's efforts on RMC's Paperwork, you can find all RMC paperwork here: https://github.com/crazy1112345/RMC14Paperwork
 
