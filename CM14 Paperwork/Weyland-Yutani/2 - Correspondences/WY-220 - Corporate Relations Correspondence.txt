@@ -1,10 +1,10 @@
-[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                           [bold]Form: [/bold][color=#ff0000]WY-603[/color]
+[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                     [bold]Form: [/bold][color=#ff0000]WY-220[/color]
 [color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Weyland-Yutani[/head]   
-[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]      [head=3]Communications Division Correspondence[/head]
+[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]      [head=3]Corporate Relations Correspondence[/head]
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
 [color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 
-[bold]To:[/bold] Director Code: 3K-S, Weyland-Yutani Communications Division
+[bold]To:[/bold] Director Code: 2K-S, Weyland-Yutani Corporate Relations Division
 [bold]Subject:[/bold] [italic][form][/italic]
 [italic][bold][color=#eb7a23]‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾[/color][/bold][/italic]
 [italic]Dear Director,
