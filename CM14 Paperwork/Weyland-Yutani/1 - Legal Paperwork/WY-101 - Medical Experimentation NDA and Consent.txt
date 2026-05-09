@@ -1,4 +1,4 @@
-[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                          [bold]Form: [/bold][color=#ff0000]WY-101[/color] 
+[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                      [bold]Form: [/bold][color=#ff0000]WY-101[/color] 
 [color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Weyland-Yutani[/head]   
 [color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3][italic]Consent and Non-Disclosure Agreement[/italic][/head]
 [color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
@@ -8,7 +8,7 @@ I, [bolditalic][color=#383838][signature][/color][/bolditalic], promise to not d
 [italic]Mark selected item(s) with [bold]X[/bold][/italic]
 
 [bullet][bold]Financial Compensation: [/bold]( [form] )
-     [italic]Specified Amount: [/italic]$10,000
+     [italic]Specified Amount: [form][/italic]
 
 [bullet][bold]Item Compensation: [/bold]( [form] )
      [bullet] [form]
