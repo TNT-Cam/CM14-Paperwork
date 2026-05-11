@@ -1,0 +1,23 @@
+[color=#383838]▄[/color][color=#ffffff]░░░[/color][color=#383838]▄[/color]                                                                     [bold]Form: [/bold][color=#ff0000]WY-501[/color]
+[color=#eb7a23]█[/color][color=#383838]▀[/color][color=#eb7a23]▄[/color][color=#383838]▀[/color][color=#eb7a23]█[/color]  [head=1]Weyland-Yutani[/head]   
+[color=#ffffff]░[/color][color=#eb7a23]█[/color][color=#383838]░[/color][color=#eb7a23]█[/color]     [head=3]Research Operation Authorization[/head]
+[color=#383838]▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄[/color]
+[color=#eb7a23]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+
+I, [signature], authorize researcher, [signature], to utilize Weyland-Yutani facility resources to conduct the following outlined research operation:
+
+[bold]Operation Name:[/bold] [form]
+
+[bold]Operation Objective(s):[/bold]
+     [bullet] [form]
+     [bullet] [form]
+     [bullet] [form]
+
+In authorizing this research operation, you take liability for any faults in the operation. The Weyland-Yutani corporation may choose to terminate the project at any time and enforce Company Non-Disclosure Agreements as seen fit for any details of the operation. All research staff must listen to the Liaison if they wish to change the parameters of the operation as they see fit. Any complaints may be sent to the Research and Development Division.
+
+[italic][bold][color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#AA8760][signature] | Corporate Code: [form][/italic][/color]
+[color=#eb7a23][bolditalic]Weyland-Yutani[/color] [color=black]Corporate Relations Division[/bolditalic][/color]
+[color=#383838]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+                                      [color=#a62d2d][head=3]CONFIDENTIAL[/head][/color]
+[italic][color=#872a2a]Access to this document is restricted to designated departmental personnel. Unauthorized access, sharing, or reproduction of its contents will be treated as a breach of corporate policy and may result in immediate administrative and legal action.[/color][/italic]
