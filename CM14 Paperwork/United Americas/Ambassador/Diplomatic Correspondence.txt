@@ -1,0 +1,19 @@
+                                                   [color=red][bold]|[/bold][/color][color=red][bold]|[/bold][/color] [color=blue]✦[/color] [color=red][bold]|[/bold][/color][color=red][bold]|[/bold][/color]
+                         
+                                 [bold]U.A. Department of State[/bold]
+                                [bold]U.A. Ambassador's Office[/bold]
+                               [bold]Diplomatic Correspondence[/bold]
+
+[bold]From:[/bold] [signature]
+[bold]To:[/bold] [form]
+[bold]Subject:[/bold] [form]
+[bold]----------------------------------------------------------------------------[/bold]
+Dear [form],
+
+
+Signed,
+[italic][signature][/italic]
+[bold]----------------------------------------------------------------------------[/bold]
+                                         [bolditalic][color=darkblue]E Pluribus Unum[/color][/bolditalic]
+
+                                                   [color=red][bold]|[/bold][/color][color=red][bold]|[/bold][/color] [color=blue]✦[/color] [color=red][bold]|[/bold][/color][color=red][bold]|[/bold][/color]
