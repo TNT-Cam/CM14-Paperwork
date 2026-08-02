@@ -6,3 +6,4 @@ Web based paperwork editor here (for easy paperwork designing): https://yagwog.g
 
 Contributors:
  - TNT_Cam (Weyland-Yutani / UA Ambassador)
+ - Haziq (Weyland-Yutani)
